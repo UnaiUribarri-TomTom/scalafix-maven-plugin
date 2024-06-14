@@ -1,5 +1,8 @@
 # scalafix-maven-plugin
 
+**CLONED** This repo was cloned to release versions for Scala 2.12, as original repo stop releasing for Scala 2.12.
+
+
 scalafix-maven-plugin enables automatic refactoring and linting of Maven projects written in Scala using [Scalafix](https://scalacenter.github.io/scalafix/).
 
 ## Installation
